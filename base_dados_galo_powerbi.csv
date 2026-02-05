@@ -1,0 +1,781 @@
+﻿round,stadium,home_team,home_score,away_score,away_team,year,pontos
+1,Pacaembu,Corinthians,0.0,3.0,Atlético-MG,2003,3
+2,Mineirão,Atlético-MG,0.0,0.0,Santos,2003,1
+3,Ligga Arena,Athletico-PR,1.0,2.0,Atlético-MG,2003,3
+4,Mineirão,Atlético-MG,3.0,2.0,Guarani,2003,3
+5,Itaipava Arena Fonte Nova,Bahia,2.0,4.0,Atlético-MG,2003,3
+6,Mineirão,Atlético-MG,1.0,2.0,Coritiba,2003,0
+7,Moisés Lucarelli,Ponte Preta,2.0,1.0,Atlético-MG,2003,0
+8,Mineirão,Atlético-MG,2.0,2.0,São Paulo,2003,1
+9,Anacleto Campanella,São Caetano,2.0,0.0,Atlético-MG,2003,0
+10,Independência,Atlético-MG,3.0,0.0,Fluminense,2003,3
+11,São Januário,Vasco,2.0,2.0,Atlético-MG,2003,1
+12,Independência,Atlético-MG,1.0,1.0,Figueirense,2003,1
+13,Mineirão,Cruzeiro,0.0,0.0,Atlético-MG,2003,1
+14,Mineirão,Atlético-MG,3.0,2.0,Grêmio,2003,3
+15,Pinheirão (PR),Paraná,1.0,1.0,Atlético-MG,2003,1
+16,Mineirão,Atlético-MG,3.0,2.0,Paysandu,2003,3
+17,Heriberto Hülse,Criciúma,1.0,0.0,Atlético-MG,2003,0
+18,Mineirão,Atlético-MG,1.0,0.0,Flamengo,2003,3
+19,Beira-Rio,Internacional,3.0,3.0,Atlético-MG,2003,1
+20,Castelão (CE),Fortaleza,4.0,3.0,Atlético-MG,2003,0
+21,Mineirão,Atlético-MG,2.0,1.0,Juventude,2003,3
+22,Serra Dourada,Goiás,1.0,1.0,Atlético-MG,2003,1
+23,Mineirão,Atlético-MG,1.0,0.0,Vitória,2003,3
+24,Vila Belmiro,Santos,3.0,3.0,Atlético-MG,2003,1
+25,Mineirão,Atlético-MG,2.0,3.0,Corinthians,2003,0
+26,Mineirão,Atlético-MG,1.0,2.0,Athletico-PR,2003,0
+27,Brinco de Ouro,Guarani,2.0,2.0,Atlético-MG,2003,1
+28,Mineirão,Atlético-MG,1.0,0.0,Bahia,2003,3
+29,Couto Pereira,Coritiba,2.0,2.0,Atlético-MG,2003,1
+30,Independência,Atlético-MG,2.0,0.0,Ponte Preta,2003,3
+31,Morumbi,São Paulo,2.0,2.0,Atlético-MG,2003,1
+32,Independência,Atlético-MG,3.0,1.0,São Caetano,2003,3
+33,Giulite Coutinho,Fluminense,0.0,1.0,Atlético-MG,2003,3
+34,Independência,Atlético-MG,2.0,1.0,Vasco,2003,3
+35,Orlando Scarpelli,Figueirense,0.0,1.0,Atlético-MG,2003,3
+36,Mineirão,Atlético-MG,0.0,1.0,Cruzeiro,2003,0
+37,Olímpico,Grêmio,2.0,2.0,Atlético-MG,2003,1
+38,Independência,Atlético-MG,2.0,2.0,Paraná,2003,1
+39,Mangueirão,Paysandu,1.0,0.0,Atlético-MG,2003,0
+40,Independência,Atlético-MG,1.0,1.0,Criciúma,2003,1
+41,Maracanã,Flamengo,3.0,2.0,Atlético-MG,2003,0
+42,Independência,Atlético-MG,1.0,2.0,Internacional,2003,0
+43,Ipatingão,Atlético-MG,2.0,0.0,Fortaleza,2003,3
+44,Alfredo Jaconi,Juventude,1.0,0.0,Atlético-MG,2003,0
+45,Barradão,Vitória,0.0,1.0,Atlético-MG,2003,3
+46,Ipatingão,Atlético-MG,3.0,2.0,Goiás,2003,3
+1,Palestra Itália,Palmeiras,0.0,0.0,Atlético-MG,2004,1
+2,Mineirão,Atlético-MG,1.0,1.0,Vasco,2004,1
+3,Caio Martins,Botafogo,2.0,2.0,Atlético-MG,2004,1
+4,Independência,Atlético-MG,1.0,2.0,Ponte Preta,2004,0
+5,Mineirão,Atlético-MG,2.0,2.0,Corinthians,2004,1
+6,Alfredo Jaconi,Juventude,1.0,1.0,Atlético-MG,2004,1
+7,Couto Pereira,Coritiba,0.0,1.0,Atlético-MG,2004,3
+8,Mineirão,Atlético-MG,3.0,3.0,Santos,2004,1
+9,Beira-Rio,Internacional,4.0,1.0,Atlético-MG,2004,0
+10,Mineirão,Atlético-MG,2.0,1.0,Fluminense,2004,3
+11,Mineirão,Atlético-MG,0.0,1.0,Athletico-PR,2004,0
+12,Brinco de Ouro,Guarani,1.0,1.0,Atlético-MG,2004,1
+13,Morumbi,São Paulo,1.0,0.0,Atlético-MG,2004,0
+14,Mineirão,Atlético-MG,2.0,0.0,Cruzeiro,2004,3
+15,Mineirão,Atlético-MG,1.0,1.0,Vitória,2004,1
+16,Heriberto Hülse,Criciúma,4.0,2.0,Atlético-MG,2004,0
+17,Mineirão,Atlético-MG,0.0,2.0,Goiás,2004,0
+18,Raulino de Oliveira,Flamengo,0.0,0.0,Atlético-MG,2004,1
+19,Mineirão,Atlético-MG,4.0,1.0,Paraná,2004,3
+20,Independência,Atlético-MG,3.0,1.0,Figueirense,2004,3
+21,Mangueirão,Paysandu,2.0,1.0,Atlético-MG,2004,0
+22,Independência,Atlético-MG,3.0,0.0,Grêmio,2004,3
+23,Anacleto Campanella,São Caetano,1.0,1.0,Atlético-MG,2004,1
+24,Mineirão,Atlético-MG,1.0,2.0,Palmeiras,2004,0
+25,São Januário,Vasco,3.0,0.0,Atlético-MG,2004,0
+26,Independência,Atlético-MG,1.0,1.0,Botafogo,2004,1
+27,Moisés Lucarelli,Ponte Preta,1.0,1.0,Atlético-MG,2004,1
+28,Pacaembu,Corinthians,1.0,0.0,Atlético-MG,2004,0
+29,Mineirão,Atlético-MG,1.0,1.0,Juventude,2004,1
+30,Mineirão,Atlético-MG,2.0,1.0,Coritiba,2004,3
+31,Vila Belmiro,Santos,2.0,0.0,Atlético-MG,2004,0
+32,Mineirão,Atlético-MG,1.0,1.0,Internacional,2004,1
+33,Maracanã,Fluminense,1.0,1.0,Atlético-MG,2004,1
+34,Ligga Arena,Athletico-PR,5.0,0.0,Atlético-MG,2004,0
+35,Independência,Atlético-MG,3.0,2.0,Guarani,2004,3
+36,Independência,Atlético-MG,0.0,5.0,São Paulo,2004,0
+37,Mineirão,Cruzeiro,0.0,3.0,Atlético-MG,2004,3
+38,Barradão,Vitória,2.0,1.0,Atlético-MG,2004,0
+39,Morumbi,Atlético-MG,2.0,2.0,Criciúma,2004,1
+40,Serra Dourada,Goiás,1.0,0.0,Atlético-MG,2004,0
+41,Ipatingão,Atlético-MG,6.0,1.0,Flamengo,2004,3
+42,Pinheirão (PR),Paraná,1.0,0.0,Atlético-MG,2004,0
+43,Santa Cruz,Figueirense,2.0,1.0,Atlético-MG,2004,0
+44,Ipatingão,Atlético-MG,0.0,0.0,Paysandu,2004,1
+45,Colosso da Lagoa,Grêmio,0.0,1.0,Atlético-MG,2004,3
+46,Mineirão,Atlético-MG,3.0,0.0,São Caetano,2004,3
+1,Mineirão,Atlético-MG,4.0,1.0,Figueirense,2005,3
+2,Moisés Lucarelli,Ponte Preta,3.0,3.0,Atlético-MG,2005,1
+3,Mineirão,Atlético-MG,0.0,1.0,Brasiliense,2005,0
+4,Luso-Brasileiro,Botafogo,2.0,1.0,Atlético-MG,2005,0
+5,Vila Belmiro,Santos,3.0,0.0,Atlético-MG,2005,0
+6,Mineirão,Atlético-MG,0.0,1.0,Corinthians,2005,0
+7,Beira-Rio,Internacional,1.0,1.0,Atlético-MG,2005,1
+8,Mineirão,Atlético-MG,2.0,3.0,São Caetano,2005,0
+9,Pinheirão (PR),Paraná,1.0,0.0,Atlético-MG,2005,0
+10,Mineirão,Atlético-MG,3.0,1.0,Flamengo,2005,3
+11,Mineirão,Cruzeiro,2.0,1.0,Atlético-MG,2005,0
+12,Mineirão,Atlético-MG,2.0,3.0,Athletico-PR,2005,0
+13,Castelão (CE),Fortaleza,1.0,4.0,Atlético-MG,2005,3
+14,Palestra Itália,Palmeiras,1.0,0.0,Atlético-MG,2005,0
+15,Mineirão,Atlético-MG,0.0,0.0,São Paulo,2005,1
+16,Serra Dourada,Goiás,3.0,1.0,Atlético-MG,2005,0
+17,Mineirão,Atlético-MG,2.0,2.0,Paysandu,2005,1
+18,Mineirão,Atlético-MG,1.0,2.0,Fluminense,2005,0
+19,Couto Pereira,Coritiba,1.0,0.0,Atlético-MG,2005,0
+20,São Januário,Vasco,2.0,1.0,Atlético-MG,2005,0
+21,Mineirão,Atlético-MG,2.0,1.0,Juventude,2005,3
+22,Orlando Scarpelli,Figueirense,0.0,1.0,Atlético-MG,2005,3
+23,Mineirão,Atlético-MG,1.0,0.0,Ponte Preta,2005,3
+24,Boca do Jacaré,Brasiliense,1.0,2.0,Atlético-MG,2005,3
+25,Independência,Atlético-MG,0.0,2.0,Botafogo,2005,0
+26,Mineirão,Atlético-MG,3.0,0.0,Santos,2005,3
+27,Pacaembu,Corinthians,1.0,1.0,Atlético-MG,2005,1
+28,Mineirão,Atlético-MG,1.0,1.0,Internacional,2005,1
+29,Anacleto Campanella,São Caetano,3.0,1.0,Atlético-MG,2005,0
+30,Mineirão,Atlético-MG,0.0,1.0,Paraná,2005,0
+31,Luso-Brasileiro,Flamengo,1.0,2.0,Atlético-MG,2005,3
+32,Mineirão,Atlético-MG,0.0,1.0,Cruzeiro,2005,0
+33,Ligga Arena,Athletico-PR,2.0,0.0,Atlético-MG,2005,0
+34,Mineirão,Atlético-MG,2.0,3.0,Fortaleza,2005,0
+35,Mineirão,Atlético-MG,1.0,3.0,Palmeiras,2005,0
+36,Morumbi,São Paulo,2.0,2.0,Atlético-MG,2005,1
+37,Mineirão,Atlético-MG,1.0,2.0,Goiás,2005,0
+38,Mangueirão,Paysandu,0.0,2.0,Atlético-MG,2005,3
+39,Raulino de Oliveira,Fluminense,0.0,2.0,Atlético-MG,2005,3
+40,Mineirão,Atlético-MG,1.0,0.0,Coritiba,2005,3
+41,Mineirão,Atlético-MG,0.0,0.0,Vasco,2005,1
+42,Alfredo Jaconi,Juventude,1.0,3.0,Atlético-MG,2005,3
+1,Mineirão,Atlético-MG,2.0,1.0,Náutico,2007,3
+2,Maracanã,Botafogo,2.0,1.0,Atlético-MG,2007,0
+3,Morumbi,Corinthians,0.0,0.0,Atlético-MG,2007,1
+4,Mineirão,Atlético-MG,1.0,1.0,Athletico-PR,2007,1
+5,Morumbi,São Paulo,0.0,1.0,Atlético-MG,2007,3
+6,Mineirão,Atlético-MG,4.0,1.0,Figueirense,2007,3
+7,Mineirão,Cruzeiro,4.0,2.0,Atlético-MG,2007,0
+8,Beira-Rio,Internacional,1.0,1.0,Atlético-MG,2007,1
+9,Mineirão,Atlético-MG,1.0,1.0,Flamengo,2007,1
+10,Mineirão,Atlético-MG,0.0,1.0,Grêmio,2007,0
+11,Ilha do Retiro,Sport,2.0,0.0,Atlético-MG,2007,0
+12,Mineirão,Atlético-MG,4.0,1.0,América-RN,2007,3
+13,São Januário,Vasco,4.0,0.0,Atlético-MG,2007,0
+14,Mineirão,Atlético-MG,3.0,0.0,Fluminense,2007,3
+15,Durival Britto,Paraná,1.0,3.0,Atlético-MG,2007,3
+16,Mineirão,Atlético-MG,1.0,2.0,Santos,2007,0
+17,Alfredo Jaconi,Juventude,1.0,2.0,Atlético-MG,2007,3
+18,Serra Dourada,Goiás,3.0,2.0,Atlético-MG,2007,0
+19,Mineirão,Atlético-MG,1.0,2.0,Palmeiras,2007,0
+20,Aflitos,Náutico,0.0,1.0,Atlético-MG,2007,3
+21,Mineirão,Atlético-MG,1.0,2.0,Botafogo,2007,0
+22,Mineirão,Atlético-MG,5.0,2.0,Corinthians,2007,3
+23,Ligga Arena,Athletico-PR,1.0,0.0,Atlético-MG,2007,0
+24,Mineirão,Atlético-MG,0.0,0.0,São Paulo,2007,1
+25,Orlando Scarpelli,Figueirense,2.0,1.0,Atlético-MG,2007,0
+26,Mineirão,Atlético-MG,3.0,4.0,Cruzeiro,2007,0
+27,Mineirão,Atlético-MG,2.0,2.0,Internacional,2007,1
+28,Maracanã,Flamengo,1.0,0.0,Atlético-MG,2007,0
+29,Olímpico,Grêmio,2.0,2.0,Atlético-MG,2007,1
+30,Mineirão,Atlético-MG,3.0,1.0,Sport,2007,3
+31,Machadão (RN),América-RN,0.0,1.0,Atlético-MG,2007,3
+32,Mineirão,Atlético-MG,1.0,0.0,Vasco,2007,3
+33,Maracanã,Fluminense,1.0,1.0,Atlético-MG,2007,1
+34,Mineirão,Atlético-MG,0.0,0.0,Paraná,2007,1
+35,Vila Belmiro,Santos,2.0,2.0,Atlético-MG,2007,1
+36,Mineirão,Atlético-MG,4.0,1.0,Juventude,2007,3
+37,Mineirão,Atlético-MG,4.0,1.0,Goiás,2007,3
+38,Palestra Itália,Palmeiras,1.0,3.0,Atlético-MG,2007,3
+1,Mineirão,Atlético-MG,0.0,0.0,Fluminense,2008,1
+2,Serra Dourada,Goiás,1.0,1.0,Atlético-MG,2008,1
+3,Ligga Arena,Athletico-PR,1.0,1.0,Atlético-MG,2008,1
+4,Mineirão,Atlético-MG,2.0,0.0,Portuguesa,2008,3
+5,Morumbi,São Paulo,5.0,1.0,Atlético-MG,2008,0
+6,Mineirão,Atlético-MG,4.0,2.0,Ipatinga,2008,3
+7,Arruda,Náutico,2.0,1.0,Atlético-MG,2008,0
+8,Orlando Scarpelli,Figueirense,1.0,1.0,Atlético-MG,2008,1
+9,Mineirão,Atlético-MG,1.0,1.0,Palmeiras,2008,1
+10,Mineirão,Atlético-MG,1.0,1.0,Flamengo,2008,1
+11,Mineirão,Cruzeiro,2.0,1.0,Atlético-MG,2008,0
+12,Beira-Rio,Internacional,1.0,0.0,Atlético-MG,2008,0
+13,Mineirão,Atlético-MG,3.0,2.0,Coritiba,2008,3
+14,Nilton Santos (Engenhão),Botafogo,4.0,0.0,Atlético-MG,2008,0
+15,Mineirão,Atlético-MG,2.0,1.0,Vitória,2008,3
+16,São Januário,Vasco,6.0,1.0,Atlético-MG,2008,0
+17,Mineirão,Atlético-MG,2.0,1.0,Sport,2008,3
+18,Vila Belmiro,Santos,2.0,3.0,Atlético-MG,2008,3
+19,Mineirão,Atlético-MG,0.0,4.0,Grêmio,2008,0
+20,Maracanã,Fluminense,1.0,0.0,Atlético-MG,2008,0
+21,Mineirão,Atlético-MG,1.0,1.0,Goiás,2008,1
+22,Mineirão,Atlético-MG,4.0,0.0,Athletico-PR,2008,3
+23,Canindé,Portuguesa,1.0,1.0,Atlético-MG,2008,1
+24,Mineirão,Atlético-MG,1.0,1.0,São Paulo,2008,1
+25,Ipatingão,Ipatinga,3.0,2.0,Atlético-MG,2008,0
+26,Mineirão,Atlético-MG,2.0,1.0,Náutico,2008,3
+27,Mineirão,Atlético-MG,0.0,0.0,Figueirense,2008,1
+28,Palestra Itália,Palmeiras,3.0,1.0,Atlético-MG,2008,0
+29,Maracanã,Flamengo,0.0,3.0,Atlético-MG,2008,3
+30,Mineirão,Atlético-MG,0.0,2.0,Cruzeiro,2008,0
+31,Mineirão,Atlético-MG,2.0,2.0,Internacional,2008,1
+32,Couto Pereira,Coritiba,2.0,1.0,Atlético-MG,2008,0
+33,Mineirão,Atlético-MG,2.0,1.0,Botafogo,2008,3
+34,Barradão,Vitória,0.0,1.0,Atlético-MG,2008,3
+35,Mineirão,Atlético-MG,4.0,1.0,Vasco,2008,3
+36,Ilha do Retiro,Sport,3.0,0.0,Atlético-MG,2008,0
+37,Mineirão,Atlético-MG,0.0,0.0,Santos,2008,1
+38,Olímpico,Grêmio,2.0,0.0,Atlético-MG,2008,0
+1,Ressacada,Avaí,2.0,2.0,Atlético-MG,2009,1
+2,Mineirão,Atlético-MG,2.0,1.0,Grêmio,2009,3
+3,Ilha do Retiro,Sport,2.0,3.0,Atlético-MG,2009,3
+4,Mineirão,Atlético-MG,0.0,0.0,Santo André,2009,1
+5,Ligga Arena,Athletico-PR,0.0,4.0,Atlético-MG,2009,3
+6,Mineirão,Atlético-MG,3.0,0.0,Náutico,2009,3
+7,Vila Belmiro,Santos,2.0,3.0,Atlético-MG,2009,3
+8,Arena Barueri,Barueri,4.0,2.0,Atlético-MG,2009,0
+9,Mineirão,Atlético-MG,1.0,1.0,Botafogo,2009,1
+10,Mineirão,Cruzeiro,0.0,3.0,Atlético-MG,2009,3
+11,Mineirão,Atlético-MG,2.0,0.0,São Paulo,2009,3
+12,Barradão,Vitória,0.0,0.0,Atlético-MG,2009,1
+13,Mineirão,Atlético-MG,2.0,1.0,Fluminense,2009,3
+14,Mineirão,Atlético-MG,0.0,1.0,Goiás,2009,0
+15,Maracanã,Flamengo,3.0,1.0,Atlético-MG,2009,0
+16,Mineirão,Atlético-MG,3.0,2.0,Coritiba,2009,3
+17,Beira-Rio,Internacional,3.0,0.0,Atlético-MG,2009,0
+18,Mineirão,Atlético-MG,1.0,1.0,Palmeiras,2009,1
+19,Pacaembu,Corinthians,2.0,0.0,Atlético-MG,2009,0
+20,Mineirão,Atlético-MG,2.0,2.0,Avaí,2009,1
+21,Olímpico,Grêmio,4.0,1.0,Atlético-MG,2009,0
+22,Mineirão,Atlético-MG,1.0,1.0,Sport,2009,1
+23,Bruno José Daniel,Santo André,1.0,2.0,Atlético-MG,2009,3
+24,Mineirão,Atlético-MG,2.0,1.0,Athletico-PR,2009,3
+25,Aflitos,Náutico,0.0,0.0,Atlético-MG,2009,1
+26,Mineirão,Atlético-MG,3.0,1.0,Santos,2009,3
+27,Mineirão,Atlético-MG,2.0,1.0,Barueri,2009,3
+28,Nilton Santos (Engenhão),Botafogo,3.0,1.0,Atlético-MG,2009,0
+29,Mineirão,Atlético-MG,0.0,1.0,Cruzeiro,2009,0
+30,Morumbi,São Paulo,0.0,1.0,Atlético-MG,2009,3
+31,Mineirão,Atlético-MG,1.0,0.0,Vitória,2009,3
+32,Maracanã,Fluminense,2.0,1.0,Atlético-MG,2009,0
+33,Serra Dourada,Goiás,2.0,3.0,Atlético-MG,2009,3
+34,Mineirão,Atlético-MG,1.0,3.0,Flamengo,2009,0
+35,Couto Pereira,Coritiba,2.0,1.0,Atlético-MG,2009,0
+36,Mineirão,Atlético-MG,0.0,1.0,Internacional,2009,0
+37,Palestra Itália,Palmeiras,3.0,1.0,Atlético-MG,2009,0
+38,Mineirão,Atlético-MG,0.0,3.0,Corinthians,2009,0
+1,Mineirão,Atlético-MG,2.0,1.0,Vasco,2010,3
+2,Prudentão,Prudente,4.0,0.0,Atlético-MG,2010,0
+3,Mineirão,Atlético-MG,3.0,1.0,Athletico-PR,2010,3
+4,Barradão,Vitória,4.0,3.0,Atlético-MG,2010,0
+5,Mineirão,Atlético-MG,1.0,3.0,Fluminense,2010,0
+6,Olímpico,Grêmio,2.0,1.0,Atlético-MG,2010,0
+7,Mineirão,Atlético-MG,0.0,1.0,Ceará,2010,0
+8,Arena do Jacaré,Atlético-MG,3.0,2.0,Atlético-GO,2010,3
+9,Pacaembu,Corinthians,1.0,0.0,Atlético-MG,2010,0
+10,Arena do Jacaré,Atlético-MG,1.0,2.0,Internacional,2010,0
+11,Ressacada,Avaí,0.0,0.0,Atlético-MG,2010,1
+12,Arena do Jacaré,Atlético-MG,0.0,1.0,Cruzeiro,2010,0
+13,Nilton Santos (Engenhão),Botafogo,3.0,0.0,Atlético-MG,2010,0
+14,Ipatingão,Atlético-MG,3.0,1.0,Guarani,2010,3
+15,Vila Belmiro,Santos,2.0,0.0,Atlético-MG,2010,0
+16,Maracanã,Flamengo,0.0,0.0,Atlético-MG,2010,1
+17,Ipatingão,Atlético-MG,1.0,2.0,Palmeiras,2010,0
+18,Serra Dourada,Goiás,1.0,3.0,Atlético-MG,2010,3
+19,Ipatingão,Atlético-MG,2.0,3.0,São Paulo,2010,0
+20,São Januário,Vasco,1.0,1.0,Atlético-MG,2010,1
+21,Arena do Jacaré,Atlético-MG,1.0,0.0,Prudente,2010,3
+22,Ligga Arena,Athletico-PR,2.0,1.0,Atlético-MG,2010,0
+23,Arena do Jacaré,Atlético-MG,2.0,3.0,Vitória,2010,0
+24,Nilton Santos (Engenhão),Fluminense,5.0,1.0,Atlético-MG,2010,0
+25,Arena do Jacaré,Atlético-MG,1.0,2.0,Grêmio,2010,0
+26,Castelão (CE),Ceará,0.0,0.0,Atlético-MG,2010,1
+27,Serra Dourada,Atlético-GO,2.0,3.0,Atlético-MG,2010,3
+28,Arena do Jacaré,Atlético-MG,2.0,1.0,Corinthians,2010,3
+29,Beira-Rio,Internacional,1.0,0.0,Atlético-MG,2010,0
+30,Arena do Jacaré,Atlético-MG,2.0,0.0,Avaí,2010,3
+31,Parque do Sabiá,Cruzeiro,3.0,4.0,Atlético-MG,2010,3
+32,Arena do Jacaré,Atlético-MG,0.0,2.0,Botafogo,2010,0
+33,Brinco de Ouro,Guarani,0.0,0.0,Atlético-MG,2010,1
+34,Arena do Jacaré,Atlético-MG,2.0,2.0,Santos,2010,1
+35,Arena do Jacaré,Atlético-MG,4.0,1.0,Flamengo,2010,3
+36,Fonte Luminosa,Palmeiras,0.0,2.0,Atlético-MG,2010,3
+37,Arena do Jacaré,Atlético-MG,3.0,1.0,Goiás,2010,3
+38,Morumbi,São Paulo,4.0,0.0,Atlético-MG,2010,0
+1,Arena do Jacaré,Atlético-MG,3.0,0.0,Athletico-PR,2011,3
+2,Ressacada,Avaí,1.0,3.0,Atlético-MG,2011,3
+3,Arena do Jacaré,Atlético-MG,0.0,1.0,São Paulo,2011,0
+4,Pituaçu,Bahia,1.0,1.0,Atlético-MG,2011,1
+5,Arena do Jacaré,Atlético-MG,2.0,2.0,Atlético-GO,2011,1
+6,Nilton Santos (Engenhão),Flamengo,4.0,1.0,Atlético-MG,2011,0
+7,Arena do Jacaré,Atlético-MG,0.0,4.0,Internacional,2011,0
+8,Presidente Vargas (CE),Ceará,3.0,0.0,Atlético-MG,2011,0
+9,Arena do Jacaré,Atlético-MG,2.0,0.0,América-MG,2011,3
+10,Vila Belmiro,Santos,2.0,1.0,Atlético-MG,2011,0
+11,Ipatingão,Atlético-MG,1.0,2.0,Vasco,2011,0
+12,Ipatingão,Atlético-MG,1.0,0.0,Fluminense,2011,3
+13,Canindé,Palmeiras,3.0,2.0,Atlético-MG,2011,0
+14,Olímpico,Grêmio,2.0,2.0,Atlético-MG,2011,1
+15,Ipatingão,Atlético-MG,1.0,2.0,Figueirense,2011,0
+16,Couto Pereira,Coritiba,3.0,0.0,Atlético-MG,2011,0
+17,Ipatingão,Atlético-MG,2.0,3.0,Corinthians,2011,0
+18,Nilton Santos (Engenhão),Botafogo,3.0,1.0,Atlético-MG,2011,0
+19,Arena do Jacaré,Atlético-MG,1.0,2.0,Cruzeiro,2011,0
+20,Ligga Arena,Athletico-PR,0.0,1.0,Atlético-MG,2011,3
+21,Arena do Jacaré,Atlético-MG,2.0,0.0,Avaí,2011,3
+22,Morumbi,São Paulo,2.0,1.0,Atlético-MG,2011,0
+23,Arena do Jacaré,Atlético-MG,2.0,0.0,Bahia,2011,3
+24,Serra Dourada,Atlético-GO,1.0,0.0,Atlético-MG,2011,0
+25,Arena do Jacaré,Atlético-MG,1.0,1.0,Flamengo,2011,1
+26,Beira-Rio,Internacional,2.0,1.0,Atlético-MG,2011,0
+27,Arena do Jacaré,Atlético-MG,1.0,1.0,Ceará,2011,1
+28,Arena do Jacaré,América-MG,0.0,0.0,Atlético-MG,2011,1
+29,Arena do Jacaré,Atlético-MG,2.0,1.0,Santos,2011,3
+30,São Januário,Vasco,2.0,0.0,Atlético-MG,2011,0
+31,Nilton Santos (Engenhão),Fluminense,0.0,2.0,Atlético-MG,2011,3
+32,Arena do Jacaré,Atlético-MG,2.0,1.0,Palmeiras,2011,3
+33,Arena do Jacaré,Atlético-MG,2.0,0.0,Grêmio,2011,3
+34,Orlando Scarpelli,Figueirense,2.0,1.0,Atlético-MG,2011,0
+35,Arena do Jacaré,Atlético-MG,2.0,1.0,Coritiba,2011,3
+36,Pacaembu,Corinthians,2.0,1.0,Atlético-MG,2011,0
+37,Arena do Jacaré,Atlético-MG,4.0,0.0,Botafogo,2011,3
+38,Arena do Jacaré,Cruzeiro,6.0,1.0,Atlético-MG,2011,0
+1,Moisés Lucarelli,Ponte Preta,0.0,1.0,Atlético-MG,2012,3
+2,Independência,Atlético-MG,1.0,0.0,Corinthians,2012,3
+3,Independência,Atlético-MG,1.0,1.0,Bahia,2012,1
+4,Pacaembu,Palmeiras,0.0,1.0,Atlético-MG,2012,3
+5,Morumbi,São Paulo,1.0,0.0,Atlético-MG,2012,0
+6,Independência,Atlético-MG,5.0,1.0,Náutico,2012,3
+7,Olímpico,Grêmio,0.0,1.0,Atlético-MG,2012,3
+8,Independência,Atlético-MG,2.0,0.0,Portuguesa,2012,3
+9,Orlando Scarpelli,Figueirense,3.0,4.0,Atlético-MG,2012,3
+10,Independência,Atlético-MG,3.0,1.0,Internacional,2012,3
+11,Ilha do Retiro,Sport,1.0,4.0,Atlético-MG,2012,3
+12,Independência,Atlético-MG,2.0,0.0,Santos,2012,3
+13,Nilton Santos (Engenhão),Fluminense,0.0,0.0,Atlético-MG,2012,1
+14,Nilton Santos (Engenhão),Flamengo,2.0,1.0,Atlético-MG,2012,0
+15,Independência,Atlético-MG,1.0,0.0,Coritiba,2012,3
+16,Independência,Atlético-MG,1.0,0.0,Vasco,2012,3
+17,Serra Dourada,Atlético-GO,1.0,1.0,Atlético-MG,2012,1
+18,Independência,Atlético-MG,3.0,2.0,Botafogo,2012,3
+19,Independência,Cruzeiro,2.0,2.0,Atlético-MG,2012,1
+20,Independência,Atlético-MG,2.0,2.0,Ponte Preta,2012,1
+21,Pacaembu,Corinthians,1.0,0.0,Atlético-MG,2012,0
+22,Pituaçu,Bahia,0.0,0.0,Atlético-MG,2012,1
+23,Independência,Atlético-MG,3.0,0.0,Palmeiras,2012,3
+24,Independência,Atlético-MG,1.0,0.0,São Paulo,2012,3
+25,Aflitos,Náutico,1.0,0.0,Atlético-MG,2012,0
+26,Independência,Atlético-MG,0.0,0.0,Grêmio,2012,1
+27,Canindé,Portuguesa,1.0,1.0,Atlético-MG,2012,1
+28,Independência,Atlético-MG,6.0,0.0,Figueirense,2012,3
+29,Beira-Rio,Internacional,3.0,0.0,Atlético-MG,2012,0
+30,Independência,Atlético-MG,2.0,1.0,Sport,2012,3
+31,Vila Belmiro,Santos,2.0,2.0,Atlético-MG,2012,1
+32,Independência,Atlético-MG,3.0,2.0,Fluminense,2012,3
+33,Independência,Atlético-MG,1.0,1.0,Flamengo,2012,1
+34,Couto Pereira,Coritiba,1.0,0.0,Atlético-MG,2012,0
+35,São Januário,Vasco,1.0,1.0,Atlético-MG,2012,1
+36,Independência,Atlético-MG,2.0,2.0,Atlético-GO,2012,1
+37,Nilton Santos (Engenhão),Botafogo,2.0,3.0,Atlético-MG,2012,3
+38,Independência,Atlético-MG,3.0,2.0,Cruzeiro,2012,3
+1,Couto Pereira,Coritiba,2.0,1.0,Atlético-MG,2013,0
+2,Arena do Jacaré,Atlético-MG,2.0,0.0,Grêmio,2013,3
+3,Independência,Atlético-MG,0.0,0.0,São Paulo,2013,1
+4,Raulino de Oliveira,Vasco,2.0,0.0,Atlético-MG,2013,0
+5,Vila Belmiro,Santos,1.0,0.0,Atlético-MG,2013,0
+6,Independência,Atlético-MG,3.0,2.0,Criciúma,2013,3
+7,Pacaembu,Corinthians,0.0,1.0,Atlético-MG,2013,3
+8,Independência,Atlético-MG,4.0,0.0,Ponte Preta,2013,3
+9,Mineirão,Cruzeiro,4.0,1.0,Atlético-MG,2013,0
+10,Independência,Atlético-MG,1.0,2.0,Athletico-PR,2013,0
+11,Mané Garrincha,Flamengo,3.0,0.0,Atlético-MG,2013,0
+12,Independência,Atlético-MG,2.0,2.0,Botafogo,2013,1
+13,Arena de Pernambuco,Náutico,0.0,0.0,Atlético-MG,2013,1
+14,Independência,Atlético-MG,2.0,0.0,Bahia,2013,3
+15,Estádio do Vale,Internacional,0.0,0.0,Atlético-MG,2013,1
+16,Independência,Atlético-MG,2.0,1.0,Portuguesa,2013,3
+17,Serra Dourada,Goiás,0.0,0.0,Atlético-MG,2013,1
+18,Independência,Atlético-MG,2.0,2.0,Fluminense,2013,1
+19,Barradão,Vitória,1.0,1.0,Atlético-MG,2013,1
+20,Independência,Atlético-MG,3.0,0.0,Coritiba,2013,3
+21,Arena do Grêmio,Grêmio,0.0,1.0,Atlético-MG,2013,3
+22,Morumbi,São Paulo,1.0,0.0,Atlético-MG,2013,0
+23,Independência,Atlético-MG,2.0,1.0,Vasco,2013,3
+24,Independência,Atlético-MG,3.0,1.0,Santos,2013,3
+25,Heriberto Hülse,Criciúma,1.0,1.0,Atlético-MG,2013,1
+26,Independência,Atlético-MG,0.0,0.0,Corinthians,2013,1
+27,Moisés Lucarelli,Ponte Preta,2.0,0.0,Atlético-MG,2013,0
+28,Independência,Atlético-MG,1.0,0.0,Cruzeiro,2013,3
+29,Durival Britto,Athletico-PR,1.0,0.0,Atlético-MG,2013,0
+30,Independência,Atlético-MG,1.0,0.0,Flamengo,2013,3
+31,Maracanã,Botafogo,1.0,0.0,Atlético-MG,2013,0
+32,Independência,Atlético-MG,5.0,0.0,Náutico,2013,3
+33,Itaipava Arena Fonte Nova,Bahia,0.0,0.0,Atlético-MG,2013,1
+34,Independência,Atlético-MG,2.0,1.0,Internacional,2013,3
+35,Canindé,Portuguesa,2.0,0.0,Atlético-MG,2013,0
+36,Independência,Atlético-MG,4.0,1.0,Goiás,2013,3
+37,Maracanã,Fluminense,2.0,2.0,Atlético-MG,2013,1
+38,Independência,Atlético-MG,2.0,2.0,Vitória,2013,1
+1,Parque do Sabiá,Atlético-MG,0.0,0.0,Corinthians,2014,1
+2,Arena do Grêmio,Grêmio,2.0,1.0,Atlético-MG,2014,0
+3,Independência,Atlético-MG,0.0,1.0,Goiás,2014,0
+4,Independência,Atlético-MG,2.0,1.0,Cruzeiro,2014,3
+5,Arena Pantanal,Santos,1.0,2.0,Atlético-MG,2014,3
+6,Joia da Princesa,Vitória,2.0,3.0,Atlético-MG,2014,3
+7,Ipatingão,Atlético-MG,0.0,0.0,Criciúma,2014,1
+8,Ipatingão,Atlético-MG,2.0,0.0,Fluminense,2014,3
+9,Morumbi,São Paulo,2.0,1.0,Atlético-MG,2014,0
+10,Arena Condá,Chapecoense,1.0,1.0,Atlético-MG,2014,1
+11,Independência,Atlético-MG,1.0,1.0,Bahia,2014,1
+12,Ilha do Retiro,Sport,2.0,1.0,Atlético-MG,2014,0
+13,Independência,Atlético-MG,3.0,1.0,Athletico-PR,2014,3
+14,Independência,Atlético-MG,2.0,1.0,Palmeiras,2014,3
+15,Orlando Scarpelli,Figueirense,2.0,2.0,Atlético-MG,2014,1
+16,Maracanã,Flamengo,2.0,1.0,Atlético-MG,2014,0
+17,Independência,Atlético-MG,1.0,0.0,Internacional,2014,3
+18,Couto Pereira,Coritiba,0.0,0.0,Atlético-MG,2014,1
+19,Independência,Atlético-MG,1.0,0.0,Botafogo,2014,3
+20,Neo Química Arena,Corinthians,1.0,0.0,Atlético-MG,2014,0
+21,Independência,Atlético-MG,0.0,0.0,Grêmio,2014,1
+22,Serra Dourada,Goiás,2.0,3.0,Atlético-MG,2014,3
+23,Mineirão,Cruzeiro,2.0,3.0,Atlético-MG,2014,3
+24,Independência,Atlético-MG,3.0,2.0,Santos,2014,3
+25,Independência,Atlético-MG,2.0,0.0,Vitória,2014,3
+26,Heriberto Hülse,Criciúma,3.0,1.0,Atlético-MG,2014,0
+27,Maracanã,Fluminense,0.0,0.0,Atlético-MG,2014,1
+28,Independência,Atlético-MG,1.0,0.0,São Paulo,2014,3
+29,Independência,Atlético-MG,1.0,0.0,Chapecoense,2014,3
+30,Itaipava Arena Fonte Nova,Bahia,1.0,1.0,Atlético-MG,2014,1
+31,Independência,Atlético-MG,3.0,2.0,Sport,2014,3
+32,Ligga Arena,Athletico-PR,1.0,0.0,Atlético-MG,2014,0
+33,Pacaembu,Palmeiras,0.0,2.0,Atlético-MG,2014,3
+34,Independência,Atlético-MG,1.0,1.0,Figueirense,2014,1
+35,Independência,Atlético-MG,4.0,0.0,Flamengo,2014,3
+36,Beira-Rio,Internacional,2.0,1.0,Atlético-MG,2014,0
+37,Independência,Atlético-MG,1.0,2.0,Coritiba,2014,0
+38,Mané Garrincha,Botafogo,0.0,0.0,Atlético-MG,2014,1
+1,Allianz Parque,Palmeiras,2.0,2.0,Atlético-MG,2015,1
+2,Mané Garrincha,Atlético-MG,4.0,1.0,Fluminense,2015,3
+3,Ligga Arena,Athletico-PR,1.0,0.0,Atlético-MG,2015,0
+4,Independência,Atlético-MG,3.0,0.0,Vasco,2015,3
+5,Ressacada,Avaí,1.0,4.0,Atlético-MG,2015,3
+6,Independência,Atlético-MG,1.0,3.0,Cruzeiro,2015,0
+7,Independência,Atlético-MG,2.0,2.0,Santos,2015,1
+8,Maracanã,Flamengo,0.0,2.0,Atlético-MG,2015,3
+9,Mineirão,Atlético-MG,1.0,0.0,Joinville,2015,3
+10,Independência,Atlético-MG,2.0,0.0,Coritiba,2015,3
+11,Beira-Rio,Internacional,1.0,3.0,Atlético-MG,2015,3
+12,Mineirão,Atlético-MG,2.0,1.0,Sport,2015,3
+13,Moisés Lucarelli,Ponte Preta,0.0,2.0,Atlético-MG,2015,3
+14,Neo Química Arena,Corinthians,1.0,0.0,Atlético-MG,2015,0
+15,Independência,Atlético-MG,1.0,0.0,Figueirense,2015,3
+16,Mineirão,Atlético-MG,3.0,1.0,São Paulo,2015,3
+17,Serra Dourada,Goiás,0.0,0.0,Atlético-MG,2015,1
+18,Mineirão,Atlético-MG,0.0,2.0,Grêmio,2015,0
+19,Arena Condá,Chapecoense,2.0,1.0,Atlético-MG,2015,0
+20,Independência,Atlético-MG,2.0,1.0,Palmeiras,2015,3
+21,Maracanã,Fluminense,1.0,2.0,Atlético-MG,2015,3
+22,Independência,Atlético-MG,0.0,1.0,Athletico-PR,2015,0
+23,Maracanã,Vasco,1.0,2.0,Atlético-MG,2015,3
+24,Independência,Atlético-MG,2.0,0.0,Avaí,2015,3
+25,Mineirão,Cruzeiro,1.0,1.0,Atlético-MG,2015,1
+26,Vila Belmiro,Santos,4.0,0.0,Atlético-MG,2015,0
+27,Independência,Atlético-MG,4.0,1.0,Flamengo,2015,3
+28,Arena Joinville,Joinville,2.0,2.0,Atlético-MG,2015,1
+29,Couto Pereira,Coritiba,0.0,3.0,Atlético-MG,2015,3
+30,Independência,Atlético-MG,2.0,1.0,Internacional,2015,3
+31,Ilha do Retiro,Sport,4.0,1.0,Atlético-MG,2015,0
+32,Independência,Atlético-MG,2.0,1.0,Ponte Preta,2015,3
+33,Independência,Atlético-MG,0.0,3.0,Corinthians,2015,0
+34,Orlando Scarpelli,Figueirense,0.0,1.0,Atlético-MG,2015,3
+35,Morumbi,São Paulo,4.0,2.0,Atlético-MG,2015,0
+36,Independência,Atlético-MG,2.0,2.0,Goiás,2015,1
+37,Arena do Grêmio,Grêmio,2.0,1.0,Atlético-MG,2015,0
+38,Mineirão,Atlético-MG,3.0,0.0,Chapecoense,2015,3
+1,Independência,Atlético-MG,1.0,0.0,Santos,2016,3
+2,Ligga Arena,Athletico-PR,1.0,1.0,Atlético-MG,2016,1
+3,Independência,Atlético-MG,0.0,3.0,Grêmio,2016,0
+4,Itaipava Arena Fonte Nova,Vitória,1.0,1.0,Atlético-MG,2016,1
+5,Independência,Atlético-MG,1.0,1.0,Fluminense,2016,1
+6,Ilha do Retiro,Sport,4.0,4.0,Atlético-MG,2016,1
+7,Independência,Atlético-MG,2.0,3.0,Cruzeiro,2016,0
+8,Beira-Rio,Internacional,2.0,0.0,Atlético-MG,2016,0
+9,Independência,Atlético-MG,3.0,0.0,Ponte Preta,2016,3
+10,Mineirão,Atlético-MG,2.0,1.0,Corinthians,2016,3
+11,Independência,América-MG,0.0,1.0,Atlético-MG,2016,3
+12,Mineirão,Atlético-MG,5.0,3.0,Botafogo,2016,3
+13,Orlando Scarpelli,Figueirense,1.0,1.0,Atlético-MG,2016,1
+14,Mané Garrincha,Flamengo,2.0,0.0,Atlético-MG,2016,0
+15,Independência,Atlético-MG,2.0,1.0,Coritiba,2016,3
+16,Allianz Parque,Palmeiras,0.0,1.0,Atlético-MG,2016,3
+17,Independência,Atlético-MG,3.0,0.0,Santa Cruz,2016,3
+18,Morumbi,São Paulo,1.0,2.0,Atlético-MG,2016,3
+19,Independência,Atlético-MG,3.0,1.0,Chapecoense,2016,3
+20,Vila Belmiro,Santos,3.0,0.0,Atlético-MG,2016,0
+21,Independência,Atlético-MG,1.0,0.0,Athletico-PR,2016,3
+22,Arena do Grêmio,Grêmio,1.0,1.0,Atlético-MG,2016,1
+23,Independência,Atlético-MG,2.0,1.0,Vitória,2016,3
+24,Giulite Coutinho,Fluminense,4.0,2.0,Atlético-MG,2016,0
+25,Independência,Atlético-MG,1.0,0.0,Sport,2016,3
+26,Mineirão,Cruzeiro,1.0,1.0,Atlético-MG,2016,1
+27,Independência,Atlético-MG,3.0,1.0,Internacional,2016,3
+28,Moisés Lucarelli,Ponte Preta,1.0,2.0,Atlético-MG,2016,3
+29,Neo Química Arena,Corinthians,0.0,0.0,Atlético-MG,2016,1
+30,Mineirão,Atlético-MG,3.0,0.0,América-MG,2016,3
+31,Luso-Brasileiro,Botafogo,3.0,2.0,Atlético-MG,2016,0
+32,Independência,Atlético-MG,3.0,0.0,Figueirense,2016,3
+33,Mineirão,Atlético-MG,2.0,2.0,Flamengo,2016,1
+34,Couto Pereira,Coritiba,2.0,0.0,Atlético-MG,2016,0
+35,Independência,Atlético-MG,1.0,1.0,Palmeiras,2016,1
+36,Arruda,Santa Cruz,3.0,3.0,Atlético-MG,2016,1
+37,Independência,Atlético-MG,1.0,2.0,São Paulo,2016,0
+38,WO duplo,Chapecoense,,,Atlético-MG,2016,0
+1,Maracanã,Flamengo,1.0,1.0,Atlético-MG,2017,1
+2,Independência,Atlético-MG,1.0,2.0,Fluminense,2017,0
+3,Independência,Atlético-MG,2.0,2.0,Ponte Preta,2017,1
+4,Allianz Parque,Palmeiras,0.0,0.0,Atlético-MG,2017,1
+5,Independência,Atlético-MG,1.0,0.0,Avaí,2017,3
+6,Barradão,Vitória,2.0,0.0,Atlético-MG,2017,0
+7,Independência,Atlético-MG,0.0,1.0,Athletico-PR,2017,0
+8,Morumbi,São Paulo,1.0,2.0,Atlético-MG,2017,3
+9,Independência,Atlético-MG,2.0,2.0,Sport,2017,1
+10,Arena Condá,Chapecoense,0.0,1.0,Atlético-MG,2017,3
+11,Independência,Atlético-MG,3.0,1.0,Cruzeiro,2017,3
+12,Nilton Santos (Engenhão),Botafogo,1.0,1.0,Atlético-MG,2017,1
+13,Independência,Atlético-MG,0.0,1.0,Santos,2017,0
+14,Olímpico (GO),Atlético-GO,1.0,2.0,Atlético-MG,2017,3
+15,Independência,Atlético-MG,0.0,2.0,Bahia,2017,0
+16,Independência,Atlético-MG,1.0,2.0,Vasco,2017,0
+17,Couto Pereira,Coritiba,0.0,2.0,Atlético-MG,2017,3
+18,Mineirão,Atlético-MG,0.0,2.0,Corinthians,2017,0
+19,Arena do Grêmio,Grêmio,2.0,0.0,Atlético-MG,2017,0
+20,Independência,Atlético-MG,2.0,0.0,Flamengo,2017,3
+21,Maracanã,Fluminense,2.0,1.0,Atlético-MG,2017,0
+22,Moisés Lucarelli,Ponte Preta,1.0,2.0,Atlético-MG,2017,3
+23,Independência,Atlético-MG,1.0,1.0,Palmeiras,2017,1
+24,Ressacada,Avaí,1.0,1.0,Atlético-MG,2017,1
+25,Independência,Atlético-MG,1.0,3.0,Vitória,2017,0
+26,Ligga Arena,Athletico-PR,0.0,2.0,Atlético-MG,2017,3
+27,Independência,Atlético-MG,1.0,0.0,São Paulo,2017,3
+28,Ilha do Retiro,Sport,1.0,1.0,Atlético-MG,2017,1
+29,Independência,Atlético-MG,2.0,3.0,Chapecoense,2017,0
+30,Mineirão,Cruzeiro,1.0,3.0,Atlético-MG,2017,3
+31,Independência,Atlético-MG,0.0,0.0,Botafogo,2017,1
+32,Vila Belmiro,Santos,3.0,1.0,Atlético-MG,2017,0
+33,Independência,Atlético-MG,3.0,2.0,Atlético-GO,2017,3
+34,Itaipava Arena Fonte Nova,Bahia,2.0,2.0,Atlético-MG,2017,1
+35,São Januário,Vasco,1.0,1.0,Atlético-MG,2017,1
+36,Independência,Atlético-MG,3.0,0.0,Coritiba,2017,3
+37,Neo Química Arena,Corinthians,2.0,2.0,Atlético-MG,2017,1
+38,Independência,Atlético-MG,4.0,3.0,Grêmio,2017,3
+1,São Januário,Vasco,2.0,1.0,Atlético-MG,2018,0
+2,Independência,Atlético-MG,2.0,1.0,Vitória,2018,3
+3,Independência,Atlético-MG,1.0,0.0,Corinthians,2018,3
+4,Morumbi,São Paulo,2.0,2.0,Atlético-MG,2018,1
+5,Ligga Arena,Athletico-PR,1.0,2.0,Atlético-MG,2018,3
+6,Independência,Atlético-MG,1.0,0.0,Cruzeiro,2018,3
+7,Independência,Atlético-MG,0.0,1.0,Flamengo,2018,0
+8,Ilha do Retiro,Sport,3.0,2.0,Atlético-MG,2018,0
+9,Independência,Atlético-MG,3.0,3.0,Chapecoense,2018,1
+10,Independência,América-MG,1.0,3.0,Atlético-MG,2018,3
+11,Independência,Atlético-MG,5.0,2.0,Fluminense,2018,3
+12,Independência,Atlético-MG,2.0,1.0,Ceará,2018,3
+13,Arena do Grêmio,Grêmio,2.0,0.0,Atlético-MG,2018,0
+14,Allianz Parque,Palmeiras,3.0,2.0,Atlético-MG,2018,0
+15,Independência,Atlético-MG,2.0,0.0,Paraná,2018,3
+16,Itaipava Arena Fonte Nova,Bahia,2.0,2.0,Atlético-MG,2018,1
+17,Independência,Atlético-MG,0.0,1.0,Internacional,2018,0
+18,Independência,Atlético-MG,3.0,1.0,Santos,2018,3
+19,Nilton Santos (Engenhão),Botafogo,0.0,3.0,Atlético-MG,2018,3
+20,Independência,Atlético-MG,0.0,0.0,Vasco,2018,1
+21,Barradão,Vitória,1.0,0.0,Atlético-MG,2018,0
+22,Neo Química Arena,Corinthians,1.0,1.0,Atlético-MG,2018,1
+23,Independência,Atlético-MG,1.0,0.0,São Paulo,2018,3
+24,Independência,Atlético-MG,3.0,1.0,Athletico-PR,2018,3
+25,Mineirão,Cruzeiro,0.0,0.0,Atlético-MG,2018,1
+26,Maracanã,Flamengo,2.0,1.0,Atlético-MG,2018,0
+27,Independência,Atlético-MG,5.0,2.0,Sport,2018,3
+28,Arena Condá,Chapecoense,1.0,0.0,Atlético-MG,2018,0
+29,Independência,Atlético-MG,0.0,0.0,América-MG,2018,1
+30,Nilton Santos (Engenhão),Fluminense,1.0,0.0,Atlético-MG,2018,0
+31,Castelão (CE),Ceará,2.0,1.0,Atlético-MG,2018,0
+32,Independência,Atlético-MG,0.0,1.0,Grêmio,2018,0
+33,Independência,Atlético-MG,1.0,1.0,Palmeiras,2018,1
+34,Durival Britto,Paraná,0.0,1.0,Atlético-MG,2018,3
+35,Independência,Atlético-MG,1.0,0.0,Bahia,2018,3
+36,Beira-Rio,Internacional,1.0,2.0,Atlético-MG,2018,3
+37,Vila Belmiro,Santos,3.0,2.0,Atlético-MG,2018,0
+38,Independência,Atlético-MG,1.0,0.0,Botafogo,2018,3
+1,Independência,Atlético-MG,2.0,1.0,Avaí,2019,3
+2,São Januário,Vasco,1.0,2.0,Atlético-MG,2019,3
+3,Castelão (CE),Ceará,1.0,2.0,Atlético-MG,2019,3
+4,Mineirão,Atlético-MG,0.0,2.0,Palmeiras,2019,0
+5,Independência,Atlético-MG,2.0,1.0,Flamengo,2019,3
+6,Arena do Grêmio,Grêmio,1.0,0.0,Atlético-MG,2019,0
+7,Independência,Atlético-MG,4.0,0.0,CSA,2019,3
+8,Vila Belmiro,Santos,3.0,1.0,Atlético-MG,2019,0
+9,Independência,Atlético-MG,1.0,1.0,São Paulo,2019,1
+10,Arena Condá,Chapecoense,1.0,2.0,Atlético-MG,2019,3
+11,Independência,Atlético-MG,2.0,2.0,Fortaleza,2019,1
+12,Serra Dourada,Goiás,0.0,0.0,Atlético-MG,2019,1
+13,Independência,Atlético-MG,2.0,0.0,Cruzeiro,2019,3
+14,Independência,Atlético-MG,2.0,1.0,Fluminense,2019,3
+15,Ligga Arena,Athletico-PR,1.0,0.0,Atlético-MG,2019,0
+16,Independência,Atlético-MG,0.0,1.0,Bahia,2019,0
+17,Neo Química Arena,Corinthians,1.0,0.0,Atlético-MG,2019,0
+18,Nilton Santos (Engenhão),Botafogo,2.0,1.0,Atlético-MG,2019,0
+19,Independência,Atlético-MG,1.0,3.0,Internacional,2019,0
+20,Ressacada,Avaí,1.0,0.0,Atlético-MG,2019,0
+21,Independência,Atlético-MG,1.0,2.0,Vasco,2019,0
+22,Independência,Atlético-MG,2.0,1.0,Ceará,2019,3
+23,Allianz Parque,Palmeiras,1.0,1.0,Atlético-MG,2019,1
+24,Maracanã,Flamengo,3.0,1.0,Atlético-MG,2019,0
+25,Independência,Atlético-MG,1.0,4.0,Grêmio,2019,0
+26,Rei Pelé,CSA,2.0,2.0,Atlético-MG,2019,1
+27,Independência,Atlético-MG,2.0,0.0,Santos,2019,3
+28,Morumbi,São Paulo,2.0,0.0,Atlético-MG,2019,0
+29,Independência,Atlético-MG,0.0,2.0,Chapecoense,2019,0
+30,Castelão (CE),Fortaleza,2.0,2.0,Atlético-MG,2019,1
+31,Mineirão,Atlético-MG,2.0,0.0,Goiás,2019,3
+32,Mineirão,Cruzeiro,0.0,0.0,Atlético-MG,2019,1
+33,Maracanã,Fluminense,1.0,1.0,Atlético-MG,2019,1
+34,Mineirão,Atlético-MG,0.0,1.0,Athletico-PR,2019,0
+35,Itaipava Arena Fonte Nova,Bahia,1.0,1.0,Atlético-MG,2019,1
+36,Independência,Atlético-MG,2.0,1.0,Corinthians,2019,3
+37,Mineirão,Atlético-MG,2.0,0.0,Botafogo,2019,3
+38,Beira-Rio,Internacional,2.0,1.0,Atlético-MG,2019,0
+1,Maracanã,Flamengo,0.0,1.0,Atlético-MG,2020,3
+2,Mineirão,Atlético-MG,3.0,2.0,Corinthians,2020,3
+3,Mineirão,Atlético-MG,2.0,0.0,Ceará,2020,3
+4,Nilton Santos (Engenhão),Botafogo,2.0,1.0,Atlético-MG,2020,0
+5,Beira-Rio,Internacional,1.0,0.0,Atlético-MG,2020,0
+6,Mineirão,Atlético-MG,0.0,2.0,Athletico-PR,2020,0
+7,Mineirão,Atlético-MG,3.0,0.0,São Paulo,2020,3
+8,Couto Pereira,Coritiba,0.0,1.0,Atlético-MG,2020,3
+9,Vila Belmiro,Santos,3.0,1.0,Atlético-MG,2020,0
+10,Mineirão,Atlético-MG,2.0,1.0,RB Bragantino,2020,3
+11,Olímpico (GO),Atlético-GO,3.0,4.0,Atlético-MG,2020,3
+12,Mineirão,Atlético-MG,3.0,1.0,Grêmio,2020,3
+13,Mineirão,Atlético-MG,4.0,1.0,Vasco,2020,3
+14,Castelão (CE),Fortaleza,2.0,1.0,Atlético-MG,2020,0
+15,Mineirão,Atlético-MG,3.0,0.0,Goiás,2020,3
+16,Mineirão,Atlético-MG,1.0,1.0,Fluminense,2020,1
+17,Pituaçu,Bahia,3.0,1.0,Atlético-MG,2020,0
+18,Mineirão,Atlético-MG,0.0,0.0,Sport,2020,1
+19,Allianz Parque,Palmeiras,3.0,0.0,Atlético-MG,2020,0
+20,Mineirão,Atlético-MG,4.0,0.0,Flamengo,2020,3
+21,Neo Química Arena,Corinthians,1.0,2.0,Atlético-MG,2020,3
+22,Castelão (CE),Ceará,2.0,2.0,Atlético-MG,2020,1
+23,Mineirão,Atlético-MG,2.0,1.0,Botafogo,2020,3
+24,Mineirão,Atlético-MG,2.0,2.0,Internacional,2020,1
+25,Ligga Arena,Athletico-PR,0.0,1.0,Atlético-MG,2020,3
+26,Morumbi,São Paulo,3.0,0.0,Atlético-MG,2020,0
+27,Mineirão,Atlético-MG,2.0,0.0,Coritiba,2020,3
+28,Mineirão,Atlético-MG,2.0,0.0,Santos,2020,3
+29,Nabi Abi Chedid,RB Bragantino,2.0,2.0,Atlético-MG,2020,1
+30,Mineirão,Atlético-MG,3.0,1.0,Atlético-GO,2020,3
+31,Arena do Grêmio,Grêmio,1.0,1.0,Atlético-MG,2020,1
+32,São Januário,Vasco,3.0,2.0,Atlético-MG,2020,0
+33,Mineirão,Atlético-MG,2.0,0.0,Fortaleza,2020,3
+34,Hailé Pinheiro (Serrinha),Goiás,1.0,0.0,Atlético-MG,2020,0
+35,Maracanã,Fluminense,0.0,0.0,Atlético-MG,2020,1
+36,Mineirão,Atlético-MG,1.0,1.0,Bahia,2020,1
+37,Ilha do Retiro,Sport,2.0,3.0,Atlético-MG,2020,3
+38,Mineirão,Atlético-MG,2.0,0.0,Palmeiras,2020,3
+1,Mineirão,Atlético-MG,1.0,2.0,Fortaleza,2021,0
+2,Ilha do Retiro,Sport,0.0,1.0,Atlético-MG,2021,3
+3,Mineirão,Atlético-MG,1.0,0.0,São Paulo,2021,3
+4,Beira-Rio,Internacional,0.0,1.0,Atlético-MG,2021,3
+5,Mineirão,Atlético-MG,1.0,1.0,Chapecoense,2021,1
+6,Castelão (CE),Ceará,2.0,1.0,Atlético-MG,2021,0
+7,Vila Belmiro,Santos,2.0,0.0,Atlético-MG,2021,0
+8,Mineirão,Atlético-MG,4.0,1.0,Atlético-GO,2021,3
+9,Arena Pantanal,Cuiabá,0.0,1.0,Atlético-MG,2021,3
+10,Mineirão,Atlético-MG,2.0,1.0,Flamengo,2021,3
+11,Independência,América-MG,0.0,1.0,Atlético-MG,2021,3
+12,Neo Química Arena,Corinthians,1.0,2.0,Atlético-MG,2021,3
+13,Mineirão,Atlético-MG,3.0,0.0,Bahia,2021,3
+14,Mineirão,Atlético-MG,2.0,0.0,Athletico-PR,2021,3
+15,Alfredo Jaconi,Juventude,1.0,2.0,Atlético-MG,2021,3
+16,Mineirão,Atlético-MG,2.0,0.0,Palmeiras,2021,3
+17,São Januário,Fluminense,1.0,1.0,Atlético-MG,2021,1
+18,Nabi Abi Chedid,RB Bragantino,1.0,1.0,Atlético-MG,2021,1
+19,Mineirão,Atlético-MG,2.0,1.0,Grêmio,2021,3
+20,Castelão (CE),Fortaleza,0.0,2.0,Atlético-MG,2021,3
+21,Mineirão,Atlético-MG,3.0,0.0,Sport,2021,3
+22,Morumbi,São Paulo,0.0,0.0,Atlético-MG,2021,1
+23,Mineirão,Atlético-MG,1.0,0.0,Internacional,2021,3
+24,Arena Condá,Chapecoense,2.0,2.0,Atlético-MG,2021,1
+25,Mineirão,Atlético-MG,3.0,1.0,Ceará,2021,3
+26,Mineirão,Atlético-MG,3.0,1.0,Santos,2021,3
+27,Antônio Accioly,Atlético-GO,2.0,1.0,Atlético-MG,2021,0
+28,Mineirão,Atlético-MG,2.0,1.0,Cuiabá,2021,3
+29,Maracanã,Flamengo,1.0,0.0,Atlético-MG,2021,0
+30,Mineirão,Atlético-MG,1.0,0.0,América-MG,2021,3
+31,Mineirão,Atlético-MG,3.0,0.0,Corinthians,2021,3
+32,Itaipava Arena Fonte Nova,Bahia,2.0,3.0,Atlético-MG,2021,3
+33,Ligga Arena,Athletico-PR,0.0,1.0,Atlético-MG,2021,3
+34,Mineirão,Atlético-MG,2.0,0.0,Juventude,2021,3
+35,Allianz Parque,Palmeiras,2.0,2.0,Atlético-MG,2021,1
+36,Mineirão,Atlético-MG,2.0,1.0,Fluminense,2021,3
+37,Mineirão,Atlético-MG,4.0,3.0,RB Bragantino,2021,3
+38,Arena do Grêmio,Grêmio,4.0,3.0,Atlético-MG,2021,0
+1,Mineirão,Atlético-MG,2.0,0.0,Internacional,2022,3
+2,Ligga Arena,Athletico-PR,0.0,1.0,Atlético-MG,2022,3
+3,Independência,Atlético-MG,2.0,2.0,Coritiba,2022,1
+4,Hailé Pinheiro (Serrinha),Goiás,2.0,2.0,Atlético-MG,2022,1
+5,Independência,Atlético-MG,1.0,2.0,América-MG,2022,0
+6,Independência,Atlético-MG,2.0,0.0,Atlético-GO,2022,3
+7,Nabi Abi Chedid,RB Bragantino,1.0,1.0,Atlético-MG,2022,1
+8,Mineirão,Atlético-MG,2.0,1.0,Avaí,2022,3
+9,Allianz Parque,Palmeiras,0.0,0.0,Atlético-MG,2022,1
+10,Maracanã,Fluminense,5.0,3.0,Atlético-MG,2022,0
+11,Mineirão,Atlético-MG,1.0,1.0,Santos,2022,1
+12,Castelão (CE),Ceará,0.0,0.0,Atlético-MG,2022,1
+13,Mineirão,Atlético-MG,2.0,0.0,Flamengo,2022,3
+14,Mineirão,Atlético-MG,3.0,2.0,Fortaleza,2022,3
+15,Alfredo Jaconi,Juventude,1.0,2.0,Atlético-MG,2022,3
+16,Mineirão,Atlético-MG,0.0,0.0,São Paulo,2022,1
+17,Nilton Santos (Engenhão),Botafogo,0.0,1.0,Atlético-MG,2022,3
+18,Arena Pantanal,Cuiabá,1.0,1.0,Atlético-MG,2022,1
+19,Mineirão,Atlético-MG,1.0,2.0,Corinthians,2022,0
+20,Beira-Rio,Internacional,3.0,0.0,Atlético-MG,2022,0
+21,Mineirão,Atlético-MG,2.0,3.0,Athletico-PR,2022,0
+22,Couto Pereira,Coritiba,0.0,1.0,Atlético-MG,2022,3
+23,Mineirão,Atlético-MG,0.0,1.0,Goiás,2022,0
+24,Independência,América-MG,1.0,1.0,Atlético-MG,2022,1
+25,Antônio Accioly,Atlético-GO,0.0,2.0,Atlético-MG,2022,3
+26,Mineirão,Atlético-MG,1.0,1.0,RB Bragantino,2022,1
+27,Ressacada,Avaí,1.0,0.0,Atlético-MG,2022,0
+28,Mineirão,Atlético-MG,0.0,1.0,Palmeiras,2022,0
+29,Mineirão,Atlético-MG,2.0,0.0,Fluminense,2022,3
+30,Vila Belmiro,Santos,1.0,2.0,Atlético-MG,2022,3
+31,Mineirão,Atlético-MG,0.0,0.0,Ceará,2022,1
+32,Maracanã,Flamengo,1.0,0.0,Atlético-MG,2022,0
+33,Castelão (CE),Fortaleza,0.0,0.0,Atlético-MG,2022,1
+34,Mineirão,Atlético-MG,1.0,0.0,Juventude,2022,3
+35,Morumbi,São Paulo,2.0,2.0,Atlético-MG,2022,1
+36,Mineirão,Atlético-MG,0.0,2.0,Botafogo,2022,0
+37,Mineirão,Atlético-MG,3.0,0.0,Cuiabá,2022,3
+38,Neo Química Arena,Corinthians,0.0,1.0,Atlético-MG,2022,3
+1,Mineirão,Atlético-MG,1.0,2.0,Vasco,2023,0
+2,Vila Belmiro,Santos,0.0,0.0,Atlético-MG,2023,1
+3,Independência,Atlético-MG,2.0,1.0,Athletico-PR,2023,3
+4,Nilton Santos (Engenhão),Botafogo,2.0,0.0,Atlético-MG,2023,0
+5,Arena Pantanal,Cuiabá,0.0,4.0,Atlético-MG,2023,3
+6,Mineirão,Atlético-MG,2.0,0.0,Internacional,2023,3
+7,Couto Pereira,Coritiba,1.0,2.0,Atlético-MG,2023,3
+8,Mineirão,Atlético-MG,1.0,1.0,Palmeiras,2023,1
+9,Parque do Sabiá,Cruzeiro,0.0,1.0,Atlético-MG,2023,3
+10,Mineirão,Atlético-MG,1.0,1.0,RB Bragantino,2023,1
+11,Raulino de Oliveira,Fluminense,1.0,1.0,Atlético-MG,2023,1
+12,Castelão (CE),Fortaleza,2.0,1.0,Atlético-MG,2023,0
+13,Mineirão,Atlético-MG,2.0,2.0,América-MG,2023,1
+14,Mineirão,Atlético-MG,0.0,1.0,Corinthians,2023,0
+15,Hailé Pinheiro (Serrinha),Goiás,0.0,0.0,Atlético-MG,2023,1
+16,Arena do Grêmio,Grêmio,1.0,0.0,Atlético-MG,2023,0
+17,Independência,Atlético-MG,1.0,2.0,Flamengo,2023,0
+18,Morumbi,São Paulo,0.0,2.0,Atlético-MG,2023,3
+19,Mineirão,Atlético-MG,1.0,0.0,Bahia,2023,3
+20,Maracanã,Vasco,1.0,0.0,Atlético-MG,2023,0
+21,Arena MRV,Atlético-MG,2.0,0.0,Santos,2023,3
+22,Ligga Arena,Athletico-PR,1.0,1.0,Atlético-MG,2023,1
+23,Arena MRV,Atlético-MG,1.0,0.0,Botafogo,2023,3
+24,Arena MRV,Atlético-MG,1.0,0.0,Cuiabá,2023,3
+25,Beira-Rio,Internacional,0.0,2.0,Atlético-MG,2023,3
+26,Arena MRV,Atlético-MG,1.0,2.0,Coritiba,2023,0
+27,Allianz Parque,Palmeiras,0.0,2.0,Atlético-MG,2023,3
+28,Arena MRV,Atlético-MG,0.0,1.0,Cruzeiro,2023,0
+29,Nabi Abi Chedid,RB Bragantino,1.0,2.0,Atlético-MG,2023,3
+30,Arena MRV,Atlético-MG,2.0,0.0,Fluminense,2023,3
+31,Arena MRV,Atlético-MG,3.0,1.0,Fortaleza,2023,3
+32,Parque do Sabiá,América-MG,1.0,1.0,Atlético-MG,2023,1
+33,Neo Química Arena,Corinthians,1.0,1.0,Atlético-MG,2023,1
+34,Arena MRV,Atlético-MG,2.0,1.0,Goiás,2023,3
+35,Arena MRV,Atlético-MG,3.0,0.0,Grêmio,2023,3
+36,Maracanã,Flamengo,0.0,3.0,Atlético-MG,2023,3
+37,Mineirão,Atlético-MG,2.0,1.0,São Paulo,2023,3
+38,Itaipava Arena Fonte Nova,Bahia,4.0,1.0,Atlético-MG,2023,0
