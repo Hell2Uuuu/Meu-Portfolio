@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+*.db
+*.sqlite
+
+# Power BI temporários
+*.pbi
